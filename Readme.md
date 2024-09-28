@@ -1,4 +1,11 @@
-# Hi, I'm Rahul Kumar 👋
+<h1 align="center">
+  Hi, I'm Rahul Kumar 👋
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F7BE11&center=true&vCenter=true&width=435&lines=Welcome!;Nice+to+meet+you!" alt="Typing SVG" />
+</p>
+
 
 🌱 I’m currently pursuing a **Bachelor of Technology** in **Computer Science Engineering** at **Chandigarh University, Gharuan**.  
 🎓 I completed my 12th grade from **CPS Bhagalpur, Bihar**, and my 10th grade from **St. Paul's School, Bhagalpur, Bihar**.
@@ -80,7 +87,7 @@
 
 ### 📲 **Follow Me On**:
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YourInstagramUsername)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/YourFacebookUsername)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YourTwitterUsername)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/only__rahul_/?hl=en)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100025319719297)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Rahul2112k)
 
