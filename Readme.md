@@ -48,8 +48,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulkumar2112k&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkumar2112k&layout=compact&theme=radical)
 
-### 📊 **GitHub Contribution Graph**
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=rahulkumar2112k&theme=react-dark)
 
 ---
 
@@ -59,7 +57,7 @@
 - Used **HTML**, **CSS**, and **JavaScript** for UI development.
 
 #### ID Card Generator Using JAVA (Aug 2023 - Nov 2023)
-- Engineered an ID card generator system using **Java**, integrated with **OCR** for scanning.
+- Engineered an ID card generator system using **Java**.
 
 #### Stock Market Prediction Using AI and ML (Aug 2022 - Nov 2022)
 - Built a stock prediction model using **Python**, **TensorFlow**, and **scikit-learn**, achieving 85% accuracy.
