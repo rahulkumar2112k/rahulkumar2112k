@@ -3,14 +3,14 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F7BE11&center=true&vCenter=true&width=435&lines=Welcome!;Nice+to+meet+you!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F7BE11&center=true&vCenter=true&width=435&lines=Welcome!;Nice+to+meet+You!;+I'm+a+SOFTWARE+DEVELOPER"alt="Typing SVG" />
 </p>
 
 
 🌱 I’m currently pursuing a **Bachelor of Technology** in **Computer Science Engineering** at **Chandigarh University, Gharuan**.  
 🎓 I completed my 12th grade from **CPS Bhagalpur, Bihar**, and my 10th grade from **St. Paul's School, Bhagalpur, Bihar**.
 
-💻 I have a passion for **full-stack development**, **data structures**, **algorithms**, and **problem-solving**.  
+💻 I have a passion for **full-stack development**, **Data Structures and Algorithms**, and **Problem-Solving**.  
 📚 I’m always eager to learn and work on projects involving **machine learning**, **AI**, and **blockchain**.
 
 🔍 I’m currently focused on enhancing my skills in **FULL STACK DEVELOPMENT**.
