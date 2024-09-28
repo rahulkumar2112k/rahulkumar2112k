@@ -45,11 +45,11 @@
 ---
 
 ### 📊 **GitHub Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulkumar2112k&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkumar2112k&layout=compact&theme=radical)
 
 ### 📊 **GitHub Contribution Graph**
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=YourGitHubUsername&theme=react-dark)
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=rahulkumar2112k&theme=react-dark)
 
 ---
 
