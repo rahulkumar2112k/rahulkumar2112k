@@ -6,11 +6,16 @@
 💻 I have a passion for **full-stack development**, **data structures**, **algorithms**, and **problem-solving**.  
 📚 I’m always eager to learn and work on projects involving **machine learning**, **AI**, and **blockchain**.
 
-🔍 I’m currently focused on enhancing my skills in **Cloud Computing** and **Multi-Core Computer Architecture**.
+🔍 I’m currently focused on enhancing my skills in **FULL STACK DEVELOPMENT**.
 
 📩 You can reach me: [rahulkumar2112k@gmail.com](mailto:rahulkumar2112k@gmail.com)
 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rahul-kumar-17a277259)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Rahul_kumar_2112k/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/22BCS50181)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rahulkumar2112k)
+
 
 ---
 
@@ -55,7 +60,6 @@
 ---
 
 ### 🏆 **Achievements**
-- Qualified for **WBJEE** and **COMEDK** examinations.
 - Secured top 5% in **Cloud Computing (NPTEL)**.
 
 ---
@@ -74,8 +78,9 @@
 
 ---
 
-### 📫 **How to reach me**:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rahul-kumar-17a277259)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/YourGitHubUsername)
+### 📲 **Follow Me On**:
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=brightgreen)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YourInstagramUsername)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/YourFacebookUsername)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YourTwitterUsername)
+
